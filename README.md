@@ -6,8 +6,8 @@ GoKeyDB is a lightweight, SQLite-backed key-value store library for Go applicati
 
 - **Lightweight**: Minimal dependencies, only SQLite is required.
 - **Simple API**: Easy-to-use methods for CRUD operations.
-- **Thread-Safe**: Built-in synchronization ensures safe access in concurrent applications.
-- **In-Memory Caching**: Frequently accessed data is cached for faster lookups.
+- **Thread-Safe**: Built-in synchronization ensures safe access in concurrent applications. (Coming soon)
+- **In-Memory Caching**: Frequently accessed data is cached for faster lookups. (Coming soon)
 
 ## Installation
 
